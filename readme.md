@@ -1,4 +1,3 @@
-HOLA SOY PAUL ALVA
 # Nombre del Proyecto
 
 Una breve descripción del proyecto y su propósito.
